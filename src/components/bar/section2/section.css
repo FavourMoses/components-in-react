@@ -1,0 +1,91 @@
+.apt2{
+    margin-top: 30px;
+   width: 600px;
+    height: 210px;
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(206, 241, 206); 
+}
+.file-icon{
+   color: rgb(68, 119, 68);
+    margin-top: 30px;
+    margin-left: 4px;
+    width: 70px;
+    height: 40px; 
+}
+.box-heading2{
+    margin-left: 22px;
+    color: rgb(68, 119, 68);
+}
+.box-para2{
+    margin-left: 22px;
+    color: gray;
+    margin-top: -10px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 30px;
+    gap: 30px;
+    margin-top: -20px;
+}
+.apt3{
+   width: 600px;
+    height: 210px;
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(246, 243, 250);
+}
+.arrow-icon{
+   color: rgb(87, 40, 150);
+    margin-top: 30px;
+    margin-left: 4px;
+    width: 70px;
+    height: 40px; 
+}
+.box-heading3{
+    margin-left: 22px;
+    color: rgb(87, 40, 150);
+}
+
+.apt4{
+   width: 600px;
+    height: 210px;
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(237, 227, 248);
+     margin-top: 30px;
+}
+.check-icon{
+   color: rgb(170, 82, 166);
+    margin-top: 30px;
+    margin-left: 4px;
+    width: 70px;
+    height: 40px; 
+}
+.box-heading4{
+    margin-left: 22px;
+    color: rgb(170, 82, 166);
+}
+.pic-div{
+    display: flex;
+}
+.all{
+    margin-left: 30px;
+    margin-top: 50px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.p{
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 15px;
+}
+
+@media screen and (max-width:640px){
+    .pic-div{
+        display: block;
+    }
+}

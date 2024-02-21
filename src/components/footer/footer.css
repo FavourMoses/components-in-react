@@ -1,0 +1,35 @@
+.foot-div{
+    background-color: #414040;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+.lastman{
+    background-color: #414040;
+    margin-top: -10px;
+}
+.lastee{
+    color: #ffffff;
+    padding: 5px 30px 25px;
+}
+.lasticons{
+    display: flex;
+    justify-content: right;
+    margin-top: -60px;
+    padding-bottom: 20px;
+    color: #ffffff;
+    margin-right: 30px;
+}
+.icons{
+padding-left: 14px;
+}
+hr{
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width:640px){
+    .foot-div{
+        font-size: 12px;
+    }
+}
